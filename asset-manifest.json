@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/joshiadvait8.github.io/test/static/css/main.5f361e03.chunk.css",
+    "main.js": "/joshiadvait8.github.io/test/static/js/main.8b4e0d76.chunk.js",
+    "main.js.map": "/joshiadvait8.github.io/test/static/js/main.8b4e0d76.chunk.js.map",
+    "runtime-main.js": "/joshiadvait8.github.io/test/static/js/runtime-main.d3612b99.js",
+    "runtime-main.js.map": "/joshiadvait8.github.io/test/static/js/runtime-main.d3612b99.js.map",
+    "static/js/2.bc32accd.chunk.js": "/joshiadvait8.github.io/test/static/js/2.bc32accd.chunk.js",
+    "static/js/2.bc32accd.chunk.js.map": "/joshiadvait8.github.io/test/static/js/2.bc32accd.chunk.js.map",
+    "index.html": "/joshiadvait8.github.io/test/index.html",
+    "precache-manifest.7551069848c06fe18a146e86e35c5e64.js": "/joshiadvait8.github.io/test/precache-manifest.7551069848c06fe18a146e86e35c5e64.js",
+    "service-worker.js": "/joshiadvait8.github.io/test/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/joshiadvait8.github.io/test/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.bc32accd.chunk.js.LICENSE.txt": "/joshiadvait8.github.io/test/static/js/2.bc32accd.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/joshiadvait8.github.io/test/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3612b99.js",
+    "static/js/2.bc32accd.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.8b4e0d76.chunk.js"
+  ]
+}
